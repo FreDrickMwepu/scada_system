@@ -1,0 +1,10 @@
+{
+    "lights": {
+        "total": 4,
+        "default_brightness": 50
+    },
+    "serial": {
+        "port": "/dev/ttyUSB0",
+        "baud_rate": 9600
+    }
+}
